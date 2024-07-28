@@ -1,0 +1,4 @@
+Epoch 0 | Time: 1947 | Nodes: 1433 | Edges: 797 | log-lik: -1.40 | Elapsed 5044.43 s
+Epoch 0 | Time: 1948 | Nodes: 2488 | Edges: 2569 | log-lik: -1.45 | Elapsed 17503.80 s
+Epoch 0 | Time: 1949 | Nodes: 2064 | Edges: 3636 | log-lik: -1.43 | Elapsed 37621.13 s
+Epoch 0 | Time: 1950 | Nodes: 2203 | Edges: 8987 | 

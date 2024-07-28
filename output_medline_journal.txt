@@ -1,0 +1,1 @@
+Epoch 0 | Time: 1950 | Nodes: 1034 | Edges: 9854 | 
